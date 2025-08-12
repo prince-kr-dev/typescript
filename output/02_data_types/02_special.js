@@ -1,8 +1,10 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 //any
-var data = 42;
+let data = 42;
 data = "Now a string";
 //unknown
-var x = 10;
+let x = 10;
 //never
 function error() {
     throw new Error("Something went wrong");
@@ -11,3 +13,4 @@ function error() {
 function logMessage() {
     console.log("This function returns nothing");
 }
+//# sourceMappingURL=02_special.js.map

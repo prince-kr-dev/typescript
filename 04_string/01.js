@@ -1,0 +1,14 @@
+var str = "Prince";
+var str2 = 'Prince';
+var str3 = "Prince";
+var age = 22;
+var userNmae = "Prince";
+var info = "My name is ".concat(userNmae, " and age is ").concat(age, " years");
+console.log(info);
+var num = 100;
+var data = num.toString();
+var boolData = true;
+var other;
+other = false;
+var dt = "Prince";
+var dt2 = 34;

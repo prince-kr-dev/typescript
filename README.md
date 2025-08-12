@@ -123,6 +123,3 @@ let dt2 = 34;
 ```
 
 ```
-
-Do you want me to now make **Number Data Type** in this exact same format so both match perfectly in your README collection?
-```
